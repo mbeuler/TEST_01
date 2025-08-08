@@ -1,0 +1,3 @@
+[submodule "stm32_workspace/STM32H743_EXAMPLE/Drivers/DRV_ZULS"]
+	path = stm32_workspace/STM32H743_EXAMPLE/Drivers/DRV_ZULS
+	url = git@github.com:mbeuler/DRV_ZULS.git
